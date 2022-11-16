@@ -15,7 +15,7 @@
 
     <!-- Required for Maven Release Plugin to work -->
     <scm>
-        <developerConnection>scm:git:git@github.com:monodot/simple-camel-app.git</developerConnection>
+        <developerConnection>scm:git@github.com:krishna-rajeesh/simple-app.git</developerConnection>
         <tag>HEAD</tag>
     </scm>
 
